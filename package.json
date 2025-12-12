@@ -1,0 +1,8 @@
+{
+  "name": "correo-api",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "ylazzari-correoargentino": "latest"
+  }
+}
